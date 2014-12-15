@@ -4,8 +4,7 @@
 int main()
 {
 	int i=10;
-	printf("i=%d",i);
-	printf("\n");
+	printf("i=%d\n",i);
 	printf("hello world\n");
 	return 0;
 }
